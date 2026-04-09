@@ -21,6 +21,7 @@ function App() {
       <Qualifications />
       <Projects />
       <Footer />
+      <Pinterest />
     </div>
   )
 }
